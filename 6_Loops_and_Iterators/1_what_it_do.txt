@@ -1,0 +1,2 @@
+It looks like it is doing something but it actually do nothing as nothing
+is printed to the screen.
