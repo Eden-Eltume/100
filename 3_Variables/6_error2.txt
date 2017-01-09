@@ -1,0 +1,2 @@
+The program is trying to reference a variable or method that has not been
+defined or is outside the scope in which it is being called.
