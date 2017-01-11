@@ -1,0 +1,1 @@
+Yes you have arrays in hashes and vice-versa.
