@@ -1,1 +1,1 @@
-puts "Eden " + "Eltume"
+"Eden " + "Eltume"
